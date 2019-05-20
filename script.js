@@ -33,7 +33,6 @@ function mouseReleased() {
 
 function setup() {
   createCanvas(window.innerWidth, window.innerHeight);
-  createP("Draw something!");
 }
 
 function epiCycles(x, y, rotation, fourier) {
